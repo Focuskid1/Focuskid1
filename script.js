@@ -20,6 +20,3 @@ window.onscroll  = () => {
 function blogAlert() {
     alert("Focus Room Tech Community - Coming Soon! We're building a vibrant community for tech enthusiasts, developers, and innovators. Stay tuned for our launch! Please check back soon.");
 }
-
-function contactAlert() {
-    alert("Your Message has been recevied, Focus tech customer service will send you a mail shortly!")
