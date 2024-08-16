@@ -18,5 +18,5 @@ window.onscroll  = () => {
 };
 
 function blogAlert() {
-    alert("Focus Room Tech Community - Coming Soon! We're building a vibrant community for tech enthusiasts, developers, and innovators. Stay tuned for our launch! Please check back soon.");
+    alert("Chatify social media Community - Coming Soon! We're building a vibrant community for social enthusiasts, developers, and innovators. Stay tuned for our launch! Please check back soon.");
 }
