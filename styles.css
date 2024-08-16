@@ -58,8 +58,8 @@ body{
     border: 10px solid lightgrey;
     border-radius: 50%;
     border-top: 10px solid #15a1ffda;
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
     animation: spin 2s linear infinite;
 }
 
