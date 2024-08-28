@@ -5,7 +5,7 @@
     "background_color": "#292629",
     "display": "standalone",
     "scope": "/",
-    "start_url": "http://localhost:8080/portfolio.html",
+    "start_url": "https://focustech.onrender.com/",
     "description": "Blog and Resume for Focuskid",
     "orientation": "any",
     "icons": [
