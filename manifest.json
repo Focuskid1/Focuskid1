@@ -10,7 +10,7 @@
     "orientation": "any",
         "icons": [
   {
-    "src": "FT logo.png",
+    "src": "https://focustech.onrender.com/FT logo.png",
     "sizes": "1024x1024"
   }
     ]
