@@ -1,7 +1,7 @@
 {
     "name": "Focustech",
     "short_name": "Focustech",
-    "theme_color": "#ffcbe4",
+    "theme_color": "#000000e5",
     "background_color": "#292629",
     "display": "standalone",
     "scope": "/",
