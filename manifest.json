@@ -5,10 +5,10 @@
     "background_color": "#292629",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://focustech.onrender.com/",
+    "start_url": "http://localhost:8080/portfolio.html",
     "description": "Blog and Resume for Focuskid",
     "orientation": "any",
-    "icons": [
+        "icons": [
   {
     "src": "FT logo.png",
     "sizes": "1024x1024"
