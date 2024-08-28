@@ -32,7 +32,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-    
+   <link rel="manifest" href="manifest.json"> 
  </head>
 <body>
 <div class="preloader">
@@ -320,6 +320,12 @@ icon.onclick = function(){
     }
 }
 </script>
-   
+   <script>
+ if (!navigator.serviceWorker.controller) {
+     navigator.serviceWorker.register("/sw.js").then(function(reg) {
+         console.log("Service worker has been registered for scope: " + reg.scope);
+     });
+ }
+   </script>
 </body>
 </html>
