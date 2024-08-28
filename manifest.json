@@ -1,0 +1,17 @@
+{
+    "name": "Focuskid",
+    "short_name": "Focuskid",
+    "theme_color": "#ffcbe4",
+    "background_color": "#292629",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "http://localhost:8080/portfolio.html",
+    "description": "Blog and Resume for Focuskid",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://christine.website/static/img/avatar.png ",
+            "sizes": "1024x1024"
+        }
+    ]
+}
