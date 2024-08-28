@@ -1,6 +1,6 @@
 {
-    "name": "Focuskid",
-    "short_name": "Focuskid",
+    "name": "Focustech",
+    "short_name": "Focustech",
     "theme_color": "#ffcbe4",
     "background_color": "#292629",
     "display": "standalone",
@@ -9,9 +9,9 @@
     "description": "Blog and Resume for Focuskid",
     "orientation": "any",
     "icons": [
-        {
-            "src": "https://christine.website/static/img/avatar.png ",
-            "sizes": "1024x1024"
-        }
+  {
+    "src": "FT logo.png",
+    "sizes": "1024x1024"
+  }
     ]
 }
